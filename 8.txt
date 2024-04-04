@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bubufbuh
+=======
+vvvvvvvvvv
+>>>>>>> origin/branch1
